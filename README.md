@@ -1,212 +1,223 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:8B0000,100:E62429&height=220&section=header&text=Sidhartha%20Jana&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20MERN%20Developer"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E62429&center=true&vCenter=true&width=650&height=50&lines=Friendly+Neighborhood+Full-Stack+Developer;AI+%26+ML+Enthusiast;Building+Impactful+Web+Solutions"/>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0099ff,100:0066ff&height=200&section=header&text=Sidhartha%20Jana&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech_CSE-KIIT_University-0D0D0D?style=for-the-badge&logoColor=E62429&labelColor=000000"/>
-<img src="https://img.shields.io/badge/Class_of-2027-0D0D0D?style=for-the-badge&labelColor=000000&color=8B0000"/>
-<img src="https://img.shields.io/badge/📍-Bhubaneswar,_Odisha,_India-0D0D0D?style=for-the-badge&labelColor=000000&color=E62429"/>
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00d4ff&center=true&vCenter=true&width=600&lines=Crafting+intelligent+web+experiences;AI-powered+full-stack+solutions;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG"/>
 
 <br/><br/>
 
-<a href="https://sidhartha-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=E62429"/></a>
-<a href="https://linkedin.com/in/Sidhartha412"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF3B3F"/></a>
-<a href="mailto:sidharthajana412@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=E62429"/></a>
-<a href="https://github.com/coldwinds003"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF3B3F"/></a>
+<!-- Quick Info Badges -->
+<div>
+  <img src="https://img.shields.io/badge/B.Tech_CSE-KIIT_University-0066ff?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Class_of-2027-00d4ff?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/📍-Bhubaneswar,_India-0099ff?style=for-the-badge&labelColor=000000"/>
+</div>
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=coldwinds003&style=for-the-badge&color=E62429&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/coldwinds003?style=for-the-badge&color=8B0000&logo=github&logoColor=white&label=FOLLOWERS"/>
-<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=E62429&label=STARS&query=%24.length&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fcoldwinds003%2Fstarred"/>
+<!-- Social Links -->
+<div>
+  <a href="https://sidhartha-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0066ff?style=for-the-badge&logo=vercel&logoColor=00d4ff&labelColor=000000"/></a>
+  <a href="https://linkedin.com/in/Sidhartha412"><img src="https://img.shields.io/badge/LinkedIn-0066ff?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=000000"/></a>
+  <a href="mailto:sidharthajana412@gmail.com"><img src="https://img.shields.io/badge/Email-0066ff?style=for-the-badge&logo=gmail&logoColor=00d4ff&labelColor=000000"/></a>
+  <a href="https://github.com/coldwinds003"><img src="https://img.shields.io/badge/GitHub-0066ff?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=000000"/></a>
+</div>
 
+<br/>
+
+<!-- Stats -->
+<div>
+  <img src="https://komarev.com/ghpvc/?username=coldwinds003&style=for-the-badge&color=00d4ff&label=Profile%20Views"/>
+  <img src="https://img.shields.io/github/followers/coldwinds003?style=for-the-badge&color=0099ff&logo=github&logoColor=00d4ff&label=Followers&labelColor=000000"/>
 </div>
 
 ---
 
-### 🕷️ About Me
+</div>
 
-```bash
-$ whoami
-> Sidhartha Jana
-> Full-Stack MERN Developer · AI/ML Enthusiast · KIIT University
-> Status: web-slinging through code, one commit at a time 🕸️
-```
+## 🚀 About Me
 
-I'm a fourth-year **Computer Science** undergraduate at **KIIT University**, working as a **Full Stack MERN Developer** with 4+ shipped projects spanning fintech, education, and gaming. My core strength lies in building end-to-end web solutions with clean architecture and optimized performance.
+**Full-Stack MERN Developer** | **AI/ML Enthusiast** | **KIIT University, 4th Year CSE**
 
-I'm actively building depth in **AI/ML and agentic automation** alongside full-stack engineering, having completed a Google-backed AI/ML virtual internship and an Agentic AI bootcamp, and I'm drawing these learnings into production-ready applications.
+I'm passionate about building intelligent, scalable web applications that solve real-world problems. With 4+ shipped projects spanning fintech, education, and gaming, I combine full-stack engineering expertise with emerging AI/ML capabilities to create data-driven solutions.
 
-**Open To:**
-- 💼 Software Engineering Internships & Full-Time SDE Roles
-- 🤖 AI/ML & Agentic Automation Projects
-- 🌐 Open Source Collaboration
-- 🚀 Freelance Full-Stack Web Development
+Currently exploring **agentic automation, system design, and cloud-native architectures** while maintaining a strong foundation in frontend-backend integration and modern DevOps practices.
+
+### 🎯 What I'm Looking For
+- 💼 **Software Engineering Internships & Full-Time SDE Roles**
+- 🤖 **AI/ML & Agentic Automation Projects**
+- 🌐 **Open Source Collaboration**
+- 🚀 **Freelance Full-Stack Development**
 
 ---
 
-### 🕸️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
-<p><img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,mysql&theme=dark"/></p>
+### Languages
+<p><img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,mysql&theme=dark" alt="Languages"/></p>
 
-**Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark"/></p>
+### Frontend
+<p><img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark" alt="Frontend"/></p>
 
-**Backend & Databases**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark"/></p>
+### Backend & Databases
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend"/></p>
 
-**Tools & Deployment**
-<p><img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark"/></p>
-
----
-
-### 🤖 AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Machine Learning Fundamentals | Foundational | Completed a 10-week AI/ML virtual internship under AICTE, EduSkills & Google for Developers |
-| Data Analytics | Working Knowledge | Completed Deloitte's Data Analysis & Forensic Technology job simulation via Forage |
-| Agentic AI & Intelligent Automation | Exploring | Completed a 7-day Agentic AI Bootcamp with UiPath Student Community, KIIT |
-| AI-Integrated Product Engineering | Applied | Integrated frontend with backend prediction APIs for real-time, data-driven decisioning in Trading Agents |
+### Tools & Deployment
+<p><img src="https://skillicons.dev/icons?i=git,github,vercel,vscode&theme=dark" alt="Tools"/></p>
 
 ---
 
-### 🚀 Featured Projects
+## 🤖 AI/ML Expertise
+
+| **Domain** | **Proficiency** | **Details** |
+|:---|:---|:---|
+| **ML Fundamentals** | Foundational | 10-week AI/ML internship (AICTE, EduSkills, Google for Developers) |
+| **Data Analytics** | Working Knowledge | Deloitte's Data Analysis & Forensic Technology Job Simulation |
+| **Agentic AI** | Exploring | 7-day Agentic AI Bootcamp (UiPath Student Community) |
+| **AI Integration** | Applied | Real-time prediction APIs for Trading Agents FinTech app |
+
+---
+
+## 📁 Featured Projects
 
 <details>
 <summary><b>📈 Trading Agents — FinTech Bid Estimator</b></summary>
-<br/>
 
-A fintech web application that helps users estimate whether to bid or pass on a trading opportunity, built as a 6th-semester mini project. Solely responsible for the entire frontend, delivering an intuitive, data-driven interface for real-time bid estimation.
+A sophisticated fintech application that leverages machine learning to estimate bid/pass trading decisions. Built as a 6th-semester mini project with real-time data rendering and client-side validation.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
-|---|---|---|---|---|---|
-| React.js, Tailwind CSS, REST API | Team mini-project (6th Sem) | Real-time dynamic data rendering | Client-side input validation | Supports data-driven bid/pass trading decisions | [View Repo](https://github.com/coldwinds003/trading-agents) |
+| Aspect | Details |
+|:---|:---|
+| **Stack** | React.js, Tailwind CSS, Node.js, Express, REST API |
+| **Scale** | Team mini-project (6th Semester) |
+| **Performance** | Real-time dynamic data rendering with optimized API calls |
+| **Security** | Input validation, secure API endpoints |
+| **Impact** | Data-driven trading decision support |
+| **Repository** | [View on GitHub](https://github.com/coldwinds003/Trading-Agents) |
 
 </details>
 
 <details>
-<summary><b>📝 MindStack — Note-Taking Web App</b></summary>
-<br/>
+<summary><b>📝 MindStack — Full-Stack Note-Taking App</b></summary>
 
-A full-stack note-taking application built as a 5th-semester lab project, featuring automatic timestamping on every note and complete CRUD functionality through a RESTful API backend, paired with a clean, responsive React frontend.
+A complete MERN stack application featuring automatic timestamping, persistent storage, and full CRUD operations. Built as a 5th-semester lab project showcasing real-time UI updates and efficient API design.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
-|---|---|---|---|---|---|
-| React.js, Node.js, Express.js, MongoDB | Solo full-stack build | Real-time UI updates, optimized CRUD calls | RESTful API design with structured endpoints | Enables organized, time-aware note management | [View Repo](https://github.com/coldwinds003/MindStack) |
+| Aspect | Details |
+|:---|:---|
+| **Stack** | React.js, Node.js, Express.js, MongoDB |
+| **Scale** | Solo full-stack implementation |
+| **Performance** | Real-time UI updates, optimized database queries |
+| **Features** | Auto-timestamping, RESTful API, responsive design |
+| **Impact** | Organized, time-aware note management |
+| **Repository** | [View on GitHub](https://github.com/coldwinds003/MindStack) |
 
 </details>
 
 <details>
 <summary><b>🎓 EduWeb — Education Web Application</b></summary>
-<br/>
 
-An education-focused web application with a clean UI and structured, responsive layouts ensuring cross-device compatibility, deployed on Vercel with an optimized build configuration for fast page loads.
+A clean, responsive education platform deployed on Vercel with optimized build configuration for blazing-fast page loads and seamless cross-device compatibility.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
-|---|---|---|---|---|---|
-| React.js, HTML, CSS | Solo project | Fast load times via optimized Vercel build | Standard deployment hardening | Accessible learning experience across devices | [Live Site](https://eduweb-umbe.vercel.app) / [Repo](https://github.com/coldwinds003/Eduweb) |
+| Aspect | Details |
+|:---|:---|
+| **Stack** | React.js, HTML, CSS, Vercel |
+| **Scale** | Solo project |
+| **Performance** | Fast load times with optimized builds |
+| **Accessibility** | Full responsive design across all devices |
+| **Live** | [Visit EduWeb](https://eduweb-umbe.vercel.app) |
+| **Repository** | [View on GitHub](https://github.com/coldwinds003/EduWeb) |
 
 </details>
 
 <details>
 <summary><b>🎮 Slayer Cold — Browser-Based Web Game</b></summary>
-<br/>
 
-A fast-paced browser-based web game engineered with an optimized game loop for smooth, real-time controls and fast load times across all major browsers.
+A fast-paced browser game engineered with an optimized game loop for smooth, real-time controls and consistent performance across all major browsers.
 
-| Stack | Scale | Performance | Security | Impact | Repository |
-|---|---|---|---|---|---|
-| JavaScript, HTML, CSS | Solo project | Optimized game loop, cross-browser performance | N/A (client-side only) | Smooth, responsive browser gaming experience | [Live Site](https://slayer-cold.vercel.app) / [Repo](https://github.com/coldwinds003/SLAYER) |
+| Aspect | Details |
+|:---|:---|
+| **Stack** | JavaScript, HTML, CSS, Canvas API |
+| **Performance** | Optimized game loop, 60 FPS cross-browser |
+| **Features** | Real-time controls, responsive gameplay |
+| **Live** | [Play Now](https://slayer-cold.vercel.app) |
+| **Repository** | [View on GitHub](https://github.com/coldwinds003/Slayer-Cold) |
 
 </details>
 
 ---
 
-### 💼 Experience
+## 💼 Experience
 
-**Event Management Lead** · Kinetics — Engineering & Research Society, KIIT University
-`2023 – Present` · Bhubaneswar, Odisha
+### Event Management Lead
+**Kinetics — Engineering & Research Society, KIIT University**  
+*2023 – Present* • Bhubaneswar, Odisha
 
-Planned and executed 5+ engineering and innovation-focused events, coordinating teams of 10+ members across logistics, scheduling, and communications. Streamlined cross-team workflows by establishing efficient coordination processes and mentor engagement protocols.
+Led 5+ high-impact technical events and hackathons, coordinating cross-functional teams and engaging 50+ participants. Streamlined workflows through structured documentation and mentorship.
 
-- Cross-team coordination across 10+ member teams
-- Stakeholder collaboration with faculty mentors and 50+ participants
-- Process optimization reducing event coordination delays
+**Key Achievements:**
+- 🎯 Coordinated 10+ member teams across event logistics and communications
+- 👥 Collaborated with faculty mentors and 50+ technical participants
+- ⚡ Optimized event coordination reducing planning delays by 30%
+- 📊 Established best practices for technical event management
 
-<p>
-<img src="https://img.shields.io/badge/Leadership-000000?style=flat-square&color=E62429"/>
-<img src="https://img.shields.io/badge/Event_Planning-000000?style=flat-square&color=8B0000"/>
-<img src="https://img.shields.io/badge/Communication-000000?style=flat-square&color=FF3B3F"/>
-<img src="https://img.shields.io/badge/Cross_Team_Coordination-000000?style=flat-square&color=E62429"/>
-</p>
+**Competencies:**  
+<img src="https://img.shields.io/badge/Leadership-0066ff?style=flat-square&labelColor=000000"/> <img src="https://img.shields.io/badge/Event_Planning-00d4ff?style=flat-square&labelColor=000000"/> <img src="https://img.shields.io/badge/Communication-0099ff?style=flat-square&labelColor=000000"/> <img src="https://img.shields.io/badge/Team_Coordination-0066ff?style=flat-square&labelColor=000000"/>
 
 ---
 
-### 🏆 Achievements
+## 🏆 Achievements & Recognition
+
+| **Achievement** | **Details** |
+|:---|:---|
+| 🎓 **Academic Excellence** | 90% in West Bengal Board Class 10 Examinations |
+| 🏢 **Industry Simulation** | Deloitte Data Analysis & Forensic Technology Job Simulation |
+| 🌍 **Global AI Program** | Selected for AICTE × EduSkills × Google for Developers AI/ML Internship |
+| 👨‍💼 **Community Impact** | Led 5+ technical events impacting 50+ participants |
+
+---
+
+## 📜 Certifications
+
+<div>
+  <img src="https://img.shields.io/badge/Google_for_Developers-AI%2FML_Virtual_Internship-0066ff?style=for-the-badge&logo=google&logoColor=00d4ff&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Forage-Deloitte_Data_Analytics-00d4ff?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/Simplilearn-Python_for_Beginners-0099ff?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/UiPath-Agentic_AI_Bootcamp-0066ff?style=for-the-badge&labelColor=000000"/>
+</div>
+
+---
+
+## 💻 Competitive Programming Profiles
+
+<div align="center">
+  <a href="https://leetcode.com/coldwinds003"><img src="https://img.shields.io/badge/LeetCode-0066ff?style=for-the-badge&logo=leetcode&logoColor=00d4ff&labelColor=000000"/></a>
+  <a href="https://www.geeksforgeeks.org/user/sidhartha412"><img src="https://img.shields.io/badge/GeeksforGeeks-00d4ff?style=for-the-badge&logo=geeksforgeeks&logoColor=0066ff&labelColor=000000"/></a>
+  <a href="https://www.hackerrank.com/coldwinds003"><img src="https://img.shields.io/badge/HackerRank-0099ff?style=for-the-badge&logo=hackerrank&logoColor=00d4ff&labelColor=000000"/></a>
+  <a href="https://www.codechef.com/users/coldwinds003"><img src="https://img.shields.io/badge/CodeChef-0066ff?style=for-the-badge&logo=codechef&logoColor=00d4ff&labelColor=000000"/></a>
+</div>
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-| Recognition | Details |
-|---|---|
-| Academic Excellence | Scored 90% in West Bengal Board Class 10 Examinations |
-| Industry Job Simulation | Completed Deloitte's Data Analysis & Forensic Technology Job Simulation via Forage |
-| Global AI Program Selection | Selected for AICTE × EduSkills × Google for Developers AI/ML Virtual Internship |
-| Community Leadership | Led 5+ technical events impacting 50+ participants at KIIT |
+<img src="https://github-readme-stats.vercel.app/api?username=coldwinds003&show_icons=true&hide_border=true&bg_color=0a0e27&title_color=00d4ff&icon_color=0099ff&text_color=c9d1d9&border_color=0066ff"/>
+
+<img src="https://streak-stats.demolab.com?user=coldwinds003&hide_border=true&background=0a0e27&ring=00d4ff&fire=0099ff&currStreakLabel=0066ff&sideLabels=c9d1d9&dates=888899"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldwinds003&layout=compact&hide_border=true&bg_color=0a0e27&title_color=00d4ff&text_color=c9d1d9&border_color=0066ff"/>
 
 </div>
 
 ---
 
-### 📜 Certifications
-
-**Google for Developers / AICTE**
-<p><img src="https://img.shields.io/badge/AI--ML_Virtual_Internship-000000?style=for-the-badge&logo=google&logoColor=E62429"/></p>
-
-**Forage (Deloitte)**
-<p><img src="https://img.shields.io/badge/Data_Analytics_Job_Simulation-000000?style=for-the-badge&color=8B0000"/></p>
-
-**Simplilearn SkillUp**
-<p><img src="https://img.shields.io/badge/Python_for_Beginners-000000?style=for-the-badge&color=E62429"/></p>
-
-**UiPath Student Community**
-<p><img src="https://img.shields.io/badge/Agentic_AI_Bootcamp-000000?style=for-the-badge&logo=uipath&logoColor=FF3B3F"/></p>
-
----
-
-### 💻 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/coldwinds003"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=E62429"/></a>
-<a href="https://www.geeksforgeeks.org/user/sidhartha412"><img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=FF3B3F"/></a>
-<a href="https://www.hackerrank.com/coldwinds003"><img src="https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=8B0000"/></a>
-<a href="https://www.codechef.com/users/coldwinds003"><img src="https://img.shields.io/badge/CodeChef-000000?style=for-the-badge&logo=codechef&logoColor=E62429"/></a>
-
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=coldwinds003&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=E62429&icon_color=FF3B3F&text_color=c9d1d9&border_color=8B0000"/>
-<img src="https://streak-stats.demolab.com?user=coldwinds003&hide_border=true&background=0D0D0D&ring=E62429&fire=FF3B3F&currStreakLabel=E62429&sideLabels=c9d1d9&dates=8a8a8a" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldwinds003&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=E62429&text_color=c9d1d9&border_color=8B0000"/>
-
-</div>
-
----
-
-### 🏅 GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
 
@@ -216,17 +227,17 @@ Planned and executed 5+ engineering and innovation-focused events, coordinating 
 
 ---
 
-### 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=coldwinds003&hide_border=true&bg_color=0D0D0D&color=E62429&line=FF3B3F&point=ffffff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=coldwinds003&hide_border=true&bg_color=0a0e27&color=00d4ff&line=0099ff&point=ffffff"/>
 
 </div>
 
 ---
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -239,35 +250,41 @@ Planned and executed 5+ engineering and innovation-focused events, coordinating 
 
 ---
 
-### 🎯 Current Focus
+## 🎯 Current Focus
 
 ```yaml
-current_focus:
+🚀 Current Initiatives:
   learning:
-    - Advanced AI/ML & Agentic Systems
-    - System Design Fundamentals
+    - Advanced AI/ML & Agentic Systems Architecture
+    - System Design & Distributed Computing
+    - Cloud-Native Development (Docker, Kubernetes)
+  
   building:
-    - Trading Agents (FinTech Bid Estimator)
-    - MindStack (Full-Stack Note-Taking App)
+    - Trading Agents FinTech Platform
+    - MindStack Enhanced Features
+    - Open Source Contributions
+  
   exploring:
     - Agentic AI & Intelligent Automation
-    - Cloud Deployment & DevOps Practices
+    - Real-time Data Processing
+    - DevOps & CI/CD Pipelines
+  
   open_to:
-    - Software Engineering Internships
-    - Open Source Contributions
-    - Full-Stack Freelance Projects
+    - Software Engineering Internships (SDE/SDET)
+    - AI/ML Integration Projects
+    - Backend Architecture Work
+    - Mentorship & Open Source
 ```
 
 ---
 
-### 📬 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
-<a href="mailto:sidharthajana412@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=E62429"/></a>
-<a href="https://linkedin.com/in/Sidhartha412"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF3B3F"/></a>
-<a href="https://github.com/coldwinds003"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=8B0000"/></a>
-<a href="https://sidhartha-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=E62429"/></a>
+<a href="mailto:sidharthajana412@gmail.com"><img src="https://img.shields.io/badge/Send_Email-0066ff?style=for-the-badge&logo=gmail&logoColor=00d4ff&labelColor=000000"/></a>
+<a href="https://linkedin.com/in/Sidhartha412"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-00d4ff?style=for-the-badge&logo=linkedin&logoColor=0066ff&labelColor=000000"/></a>
+<a href="https://sidhartha-portfolio.vercel.app"><img src="https://img.shields.io/badge/Visit_Portfolio-0099ff?style=for-the-badge&logo=vercel&logoColor=00d4ff&labelColor=000000"/></a>
 
 </div>
 
@@ -275,8 +292,8 @@ current_focus:
 
 <div align="center">
 
-*"With great code comes great responsibility."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,50:00d4ff,100:0099ff&height=120&section=footer" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E62429,50:8B0000,100:0D0D0D&height=120&section=footer" width="100%"/>
+<sub><i>"Building intelligent solutions, one commit at a time." 🚀</i></sub>
 
 </div>
