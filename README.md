@@ -1,565 +1,585 @@
-<!-- ==================== HERO BANNER ==================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:0a0e3f,60:0d1b6e,100:00d4ff&height=280&section=header&text=Sidhartha%20Jana&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=⚡%20Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Dev%20%7C%20Cloud%20Enthusiast&descSize=18&descAlignY=58&descAlign=50&animation=twinkling" width="100%"/>
-
-<!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=00d4ff&center=true&vCenter=true&multiline=false&width=700&height=50&lines=👋+Hey+there!+I'm+Sidhartha+Jana;🚀+Full+Stack+MERN+%2B+AI+Engineer;🤖+Building+Agentic+AI+%26+RAG+Systems;☁️+Cloud-Native+%26+DevOps+Explorer;💡+Turning+Ideas+into+Production-Ready+Apps" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,15:0066ff,50:00d4ff,85:0099ff,100:0a0e27&height=280&section=header&text=SIDHARTHA%20JANA&fontSize=70&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Engineer%20%E2%80%A2%20AI%20%2F%20Agentic%20Systems%20Builder&descAlignY=55&descAlign=50&descSize=20" width="100%"/>
 
 <br/>
 
-<!-- Role Badges -->
-<p>
-  <img src="https://img.shields.io/badge/🧑‍💻_Software_Engineer-0a0e27?style=for-the-badge&labelColor=0066ff&color=000011"/>
-  <img src="https://img.shields.io/badge/🤖_AI_Engineer-0a0e27?style=for-the-badge&labelColor=7c3aed&color=000011"/>
-  <img src="https://img.shields.io/badge/☁️_Cloud_Enthusiast-0a0e27?style=for-the-badge&labelColor=0099ff&color=000011"/>
-  <img src="https://img.shields.io/badge/🔥_Problem_Solver-0a0e27?style=for-the-badge&labelColor=ff6b35&color=000011"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Building+AI+Agents+that+actually+ship;Full-Stack+%2B+Backend+%2B+Cloud+Native+Engineering;LangChain+%7C+RAG+%7C+MCP+%7C+Vector+Search;Turning+%E2%98%95+Coffee+into+Production+Code;Open+to+SDE+%2F+AI+Engineering+Roles+2026" alt="Typing SVG"/>
 
-<!-- Info Badges -->
-<p>
-  <img src="https://img.shields.io/badge/🎓_B.Tech_CSE-KIIT_University-0066ff?style=for-the-badge&labelColor=000011"/>
-  <img src="https://img.shields.io/badge/📅_Class_of-2027-7c3aed?style=for-the-badge&labelColor=000011"/>
-  <img src="https://img.shields.io/badge/📍-Bhubaneswar,_India-00d4ff?style=for-the-badge&labelColor=000011"/>
-</p>
+<br/><br/>
 
-<!-- Social Links -->
-<p>
-  <a href="https://sidhartha-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-0066ff?style=for-the-badge&labelColor=000011"/>
-  </a>
-  <a href="https://linkedin.com/in/Sidhartha412" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000011"/>
-  </a>
-  <a href="mailto:sidharthajana412@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email_Me-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000011"/>
-  </a>
-  <a href="https://github.com/coldwinds003" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000011"/>
-  </a>
-</p>
+<img src="https://img.shields.io/badge/B.Tech_CSE-KIIT_University-0066ff?style=for-the-badge&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/Class_of-2027-00d4ff?style=for-the-badge&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/📍_Based_in-Bhubaneswar,_India-0099ff?style=for-the-badge&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/Status-Open_to_Work-39ff14?style=for-the-badge&labelColor=0a0e27"/>
 
-<!-- Dynamic Stats -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=coldwinds003&style=for-the-badge&color=00d4ff&label=👁️+Profile+Views"/>
-  <img src="https://img.shields.io/github/followers/coldwinds003?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=7c3aed&labelColor=000011"/>
-</p>
+<br/><br/>
+
+<a href="https://sidhartha-portfolio.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-0066ff?style=for-the-badge&logoColor=00d4ff&labelColor=0a0e27"/></a>
+<a href="https://linkedin.com/in/Sidhartha412"><img src="https://img.shields.io/badge/LinkedIn-0066ff?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=0a0e27"/></a>
+<a href="mailto:sidharthajana412@gmail.com"><img src="https://img.shields.io/badge/Email-0066ff?style=for-the-badge&logo=gmail&logoColor=00d4ff&labelColor=0a0e27"/></a>
+<a href="https://github.com/coldwinds003"><img src="https://img.shields.io/badge/GitHub-0066ff?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0a0e27"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=coldwinds003&style=for-the-badge&color=00d4ff&label=PROFILE+VIEWS&labelColor=0a0e27"/>
+<img src="https://img.shields.io/github/followers/coldwinds003?style=for-the-badge&color=0099ff&logo=github&logoColor=00d4ff&label=Followers&labelColor=0a0e27"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:0066ff&height=3&width=100%"/>
 
 </div>
 
----
-
-<!-- ==================== ABOUT ME ==================== -->
+<br/>
 
 ## 🧬 About Me
 
-> *"I don't just write code — I architect experiences, engineer intelligence, and ship products that matter."*
-
-I'm a **4th-year B.Tech CSE student at KIIT University** and a passionate **Full-Stack MERN + AI Engineer** with **4+ shipped production projects** across fintech, education, and gaming. I love sitting at the intersection of **software engineering** and **artificial intelligence** — building things that are both technically excellent and genuinely useful.
-
-Currently interning as an **AI Intern at ASMEP Design & Build Pvt. Ltd.**, where I'm architecting **Project Apollo** — an internal AI-powered operations platform with RAG pipelines, vector databases, and agentic workflows.
-
 <table>
 <tr>
-<td width="50%">
+<td width="60%" valign="top">
 
-### 🚀 Mission
-Build AI-powered, cloud-native applications that **solve real-world problems at scale** — bridging the gap between cutting-edge research and production-ready software.
-
-### 🎯 Current Goals
-- 🏗️ Ship **Project Apollo** (AI Ops Platform)
-- 📚 Master **System Design & Distributed Systems**
-- ☁️ Get **AWS / GCP certified**
-- 🤝 Contribute to **open-source AI tools**
+```yaml
+sidhartha_jana:
+  role: "Full-Stack Developer & AI/Agentic Systems Engineer"
+  university: "KIIT University — B.Tech CSE, Class of 2027"
+  location: "Bhubaneswar, Odisha, India"
+  
+  currently:
+    - 🔭 Building production-grade MERN + AI-powered applications
+    - 🤖 Designing agentic workflows with LangChain, RAG & MCP
+    - ☁️ Leveling up Cloud-Native & DevOps engineering skills
+    - 🗄️ Mastering distributed databases & event-driven systems
+  
+  philosophy: >
+    I believe great software sits at the intersection of
+    clean architecture, intelligent automation, and
+    relentless curiosity. I don't just write code —
+    I engineer systems that think.
+  
+  looking_for:
+    - "💼 SDE / Full-Stack Internships & New-Grad Roles"
+    - "🤖 AI Engineering & Agentic Automation Projects"
+    - "🌐 Open Source Collaboration"
+    - "🚀 Freelance Full-Stack Development"
+```
 
 </td>
-<td width="50%">
+<td width="40%" valign="top" align="center">
 
-### 🔥 What I'm Building
-- 🤖 **RAG pipelines** with Qdrant vector DB
-- 🧠 **Agentic AI workflows** with LangChain
-- 📊 **Internal ops platform** (Project Apollo)
-- 🎮 Browser games & fullstack web apps
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=coldwinds003&theme=radical&hide_border=true&bg_color=0a0e27&title_color=00d4ff&text_color=c9d1d9&layout=compact" width="100%"/>
 
-### 📚 What I'm Learning
-- Kubernetes & container orchestration
-- Apache Kafka for event streaming
-- Advanced Prompt Engineering & LLM fine-tuning
-- TypeScript for enterprise-grade backends
+<br/>
+
+> 💡 *"Code like Tony Stark builds suits —*
+> *iterate fast, fail safely, ship something*
+> *that saves the day."*
 
 </td>
 </tr>
 </table>
 
-### 💡 Interests
-`⚡ Agentic AI` · `🔍 Semantic Search` · `☁️ Cloud Native` · `🗄️ Distributed Databases` · `🎮 Game Dev` · `📈 FinTech` · `🔐 Auth & Security` · `🎨 UI/UX Design`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0066ff,100:0a0e27&height=2&width=100%"/>
 
----
+<br/>
 
-<!-- ==================== TECH STACK ==================== -->
-
-## 🛠️ Tech Arsenal
-
-### 🗣️ Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-5.x-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### 🎨 Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/React.js-18-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-v3-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Responsive_Design-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
-
-### ⚙️ Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-20-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-4.x-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-0066ff?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qdrant-Vector_DB-FF4B4B?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pinecone-Vector_DB-00B388?style=for-the-badge&logoColor=white"/>
-</p>
-
-### ☁️ Cloud, DevOps & Infra
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
-
-### 🤖 AI / ML & LLM Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-🦜-1C3C3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Claude_API-Anthropic-7c3aed?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG_Pipelines-🔍-00d4ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI_Agents-🤖-ff6b35?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-🧠-8B5CF6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Semantic_Search-🔎-0099ff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-</p>
-
-### 🧰 Tools & Platforms
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-
----
-
-<!-- ==================== CERTIFICATIONS ==================== -->
-
-## 🏆 Certifications & Badges
+## 🎯 Current Focus
 
 <div align="center">
 
-| 🏅 Certification | 🏢 Issuer | 📅 Year |
-|:---|:---|:---|
-| 🤖 **Claude Certified Engineer** | Anthropic | 2025 |
-| 🌐 **AI/ML Virtual Internship** (10 weeks) | AICTE × EduSkills × Google for Developers | 2025 |
-| 📊 **Data Analytics & Forensic Technology** | Deloitte via Forage | 2025 |
-| 🐍 **Python for Beginners** | Simplilearn SkillUp | 2025 |
-| 🤖 **Agentic AI Bootcamp** (7 days) | UiPath Student Community, KIIT | 2025 |
-| ☁️ **Cloud Computing Fundamentals** | *In Progress* | 2026 |
-| 🐳 **Kubernetes Fundamentals** | *In Progress* | 2026 |
-| 📨 **Kafka Fundamentals** | *In Progress* | 2026 |
+| 🚀 Building | 🧠 Learning | 🌍 Exploring | 🤝 Open To |
+|:---:|:---:|:---:|:---:|
+| Trading Agents FinTech Platform | Agentic AI & RAG Architectures | Event-Driven Microservices | SDE / SDET Internships |
+| MindStack v2 (AI-enhanced notes) | System Design at Scale | Vector Search @ Production Scale | AI/ML Integration Projects |
+| MCP-powered Dev Tools | Kubernetes & Cloud-Native Patterns | Real-time Data Pipelines | Backend Architecture Work |
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🤖_Claude_Certified_Engineer-Anthropic-7c3aed?style=for-the-badge&labelColor=000011"/>
-  <img src="https://img.shields.io/badge/🌍_AI%2FML_Intern-Google_for_Developers-4285F4?style=for-the-badge&labelColor=000011"/>
-  <img src="https://img.shields.io/badge/📊_Data_Analytics-Deloitte_Forage-00d4ff?style=for-the-badge&labelColor=000011"/>
-  <img src="https://img.shields.io/badge/🐳_Kubernetes-Fundamentals-326CE5?style=for-the-badge&labelColor=000011"/>
-  <img src="https://img.shields.io/badge/📨_Apache_Kafka-Fundamentals-231F20?style=for-the-badge&labelColor=000011"/>
-  <img src="https://img.shields.io/badge/🤖_Agentic_AI-UiPath_Bootcamp-ff6b35?style=for-the-badge&labelColor=000011"/>
-</p>
+<br/>
 
----
-
-<!-- ==================== PROJECTS ==================== -->
-
-## 🌟 Featured Projects
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 📈 Trading Agents — FinTech Bid Estimator
-![STATUS](https://img.shields.io/badge/Status-Active-00d4ff?style=flat-square) ![VERSION](https://img.shields.io/badge/Version-1.0.0-7c3aed?style=flat-square) ![SEMESTER](https://img.shields.io/badge/6th_Semester-Mini_Project-0066ff?style=flat-square)
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,mysql&theme=dark"/>
 
-> 💹 A sophisticated FinTech web application that leverages ML-powered prediction APIs to estimate bid/pass trading decisions — built with a data-driven, real-time dashboard.
+### 🎨 Frontend Engineering
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vercel&theme=dark"/>
 
-| 🔧 | Details |
-|:---|:---|
-| **Stack** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
-| **Highlights** | Real-time dynamic rendering · ML prediction API · Responsive dashboard |
-| **My Role** | Solely responsible for entire frontend development |
+### ⚙️ Backend Engineering
+<img src="https://skillicons.dev/icons?i=nodejs,express,java&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/REST_APIs-0066ff?style=for-the-badge&logo=fastapi&logoColor=00d4ff&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/JWT-0066ff?style=for-the-badge&logo=jsonwebtokens&logoColor=00d4ff&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/OAuth_2.0-0066ff?style=for-the-badge&logo=auth0&logoColor=00d4ff&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/Microservices-0066ff?style=for-the-badge&logo=kubernetes&logoColor=00d4ff&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/Authentication_APIs-0066ff?style=for-the-badge&logo=okta&logoColor=00d4ff&labelColor=0a0e27"/>
 
-[![🐙 GitHub](https://img.shields.io/badge/🐙_GitHub-View_Repo-181717?style=for-the-badge&labelColor=000011)](https://github.com/coldwinds003/Trading-Agents)
+### 🗄️ Databases & Data Layer
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,elasticsearch&theme=dark"/>
 
----
+### ☁️ DevOps & Cloud Native
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,linux,nginx,githubactions,git,github&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/CI%2FCD_Pipelines-0066ff?style=for-the-badge&logo=githubactions&logoColor=00d4ff&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/Cloud_Computing-0066ff?style=for-the-badge&logo=icloud&logoColor=00d4ff&labelColor=0a0e27"/>
 
-### 📝 MindStack — Full-Stack Note-Taking App
-![STATUS](https://img.shields.io/badge/Status-Complete-00d4ff?style=flat-square) ![VERSION](https://img.shields.io/badge/Version-1.0.0-7c3aed?style=flat-square) ![SEMESTER](https://img.shields.io/badge/5th_Semester-Lab_Project-0066ff?style=flat-square)
+### 🤖 AI / Agentic Engineering
+<img src="https://img.shields.io/badge/LangChain-0066ff?style=for-the-badge&logo=langchain&logoColor=00d4ff&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/AI_Agents-0066ff?style=for-the-badge&logo=robotframework&logoColor=00d4ff&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/RAG-0066ff?style=for-the-badge&logo=databricks&logoColor=00d4ff&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/MCP-0066ff?style=for-the-badge&logo=anthropic&logoColor=00d4ff&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/OpenAI_API-0066ff?style=for-the-badge&logo=openai&logoColor=00d4ff&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/Claude_API-0066ff?style=for-the-badge&logo=anthropic&logoColor=00d4ff&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-0066ff?style=for-the-badge&logo=openai&logoColor=00d4ff&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/Semantic_Search-0066ff?style=for-the-badge&logo=elasticsearch&logoColor=00d4ff&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/Embeddings-0066ff?style=for-the-badge&logo=tensorflow&logoColor=00d4ff&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/Vector_Databases-0066ff?style=for-the-badge&logo=pinecone&logoColor=00d4ff&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/Qdrant-0066ff?style=for-the-badge&logoColor=00d4ff&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/Pinecone-0066ff?style=for-the-badge&logo=pinecone&logoColor=00d4ff&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/LLM_Applications-0066ff?style=for-the-badge&logo=openai&logoColor=00d4ff&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/Conversational_AI-0066ff?style=for-the-badge&logo=chatbot&logoColor=00d4ff&labelColor=0a0e27"/>
 
-> 🧠 A complete MERN stack app with automatic timestamping, persistent storage, and full CRUD via RESTful API — real-time UI that keeps your notes beautifully organized.
+### 🔄 Architecture & Data Engineering
+<img src="https://img.shields.io/badge/Event_Driven_Architecture-0066ff?style=for-the-badge&logo=apachekafka&logoColor=00d4ff&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/ETL_Pipelines-0066ff?style=for-the-badge&logo=apacheairflow&logoColor=00d4ff&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/Data_Engineering-0066ff?style=for-the-badge&logo=databricks&logoColor=00d4ff&labelColor=0a0e27"/>
 
-| 🔧 | Details |
-|:---|:---|
-| **Stack** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Highlights** | Auto-timestamping · RESTful API · Real-time UI updates |
-| **My Role** | Solo full-stack implementation |
-
-[![🐙 GitHub](https://img.shields.io/badge/🐙_GitHub-View_Repo-181717?style=for-the-badge&labelColor=000011)](https://github.com/coldwinds003/MindStack)
-
----
-
-### 🎓 EduWeb — Education Web Application
-![STATUS](https://img.shields.io/badge/Status-Live-00d4ff?style=flat-square) ![VERSION](https://img.shields.io/badge/Version-1.0.0-7c3aed?style=flat-square) ![DEPLOY](https://img.shields.io/badge/Deployed-Vercel-000000?style=flat-square&logo=vercel)
-
-> 📚 A clean, blazing-fast education platform with structured layouts, responsive cross-device design, and optimized Vercel deployment.
-
-| 🔧 | Details |
-|:---|:---|
-| **Stack** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
-| **Highlights** | Optimized builds · Fast load times · Fully responsive |
-
-[![🔗 Live Demo](https://img.shields.io/badge/🔗_Live_Demo-Visit_Site-00d4ff?style=for-the-badge&labelColor=000011)](https://eduweb-umbe.vercel.app) [![🐙 GitHub](https://img.shields.io/badge/🐙_GitHub-View_Repo-181717?style=for-the-badge&labelColor=000011)](https://github.com/coldwinds003/EduWeb)
-
----
-
-### 🎮 Slayer Cold — Browser-Based Web Game
-![STATUS](https://img.shields.io/badge/Status-Live-00d4ff?style=flat-square) ![FPS](https://img.shields.io/badge/Performance-60_FPS-ff6b35?style=flat-square) ![DEPLOY](https://img.shields.io/badge/Deployed-Vercel-000000?style=flat-square&logo=vercel)
-
-> ⚔️ A fast-paced browser game engineered with an optimized game loop for silky smooth 60 FPS gameplay — works flawlessly across all major browsers.
-
-| 🔧 | Details |
-|:---|:---|
-| **Stack** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5_Canvas-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Highlights** | Optimized game loop · 60 FPS · Cross-browser |
-
-[![🔗 Play Now](https://img.shields.io/badge/🎮_Play_Now-Launch_Game-7c3aed?style=for-the-badge&labelColor=000011)](https://slayer-cold.vercel.app) [![🐙 GitHub](https://img.shields.io/badge/🐙_GitHub-View_Repo-181717?style=for-the-badge&labelColor=000011)](https://github.com/coldwinds003/Slayer-Cold)
-
----
-
-### 🚀 Project Apollo — AI Internal Ops Platform *(In Progress)*
-![STATUS](https://img.shields.io/badge/Status-In_Progress-ff6b35?style=flat-square) ![TYPE](https://img.shields.io/badge/Type-Internship_Project-7c3aed?style=flat-square)
-
-> 🏗️ Enterprise AI-powered operations platform at ASMEP Design & Build — featuring RAG pipelines, Qdrant vector search, multi-collection document intelligence, and agentic workflows.
-
-| 🔧 | Details |
-|:---|:---|
-| **AI Stack** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square) ![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-FF4B4B?style=flat-square) ![Claude](https://img.shields.io/badge/Claude_API-7c3aed?style=flat-square) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Highlights** | Multi-collection RAG · Semantic search · Agentic AI · HNSW indexing |
+### 🧰 Tools & Productivity
+<img src="https://skillicons.dev/icons?i=postman,vscode,idea,figma&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/Jira-0066ff?style=for-the-badge&logo=jira&logoColor=00d4ff&labelColor=0a0e27"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:0066ff&height=2&width=100%"/>
 
-<!-- ==================== CAREER TIMELINE ==================== -->
+<br/>
 
-## 🎬 My Origin Story *(Disney/Pixar Edition)*
+## 🤖 AI Engineering Expertise
 
-> *Every hero has a beginning. Mine started with a curious kid and a blinking cursor...*
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-```mermaid
-timeline
-    title ⚡ The Sidhartha Jana Chronicles
-    2015 : 🌱 Chapter 1 — The Spark
-           : First encounter with computers
-           : "What IS this magic box?!"
-    2021 : 📖 Chapter 2 — Class X Hero
-           : 90% in WB Board Exams
-           : Discovered programming basics
-    2022 : 🧪 Chapter 3 — The Lab Years
-           : 12th WB Board (75%)
-           : First lines of HTML & Python
-    2023 : 🏛️ Chapter 4 — KIIT Begins
-           : B.Tech CSE at KIIT University
-           : Joined Kinetics as Event Lead
-           : Led 5+ engineering events
-    2024 : 🛠️ Chapter 5 — Builder Mode ON
-           : Shipped EduWeb & Slayer Cold
-           : Mastered MERN stack
-           : Discovered the power of APIs
-    2025 : 🤖 Chapter 6 — AI Awakening
-           : AI/ML Internship (Google x AICTE)
-           : Deloitte Data Analytics Simulation
-           : Built Trading Agents & MindStack
-           : Entered the world of LLMs & RAG
-    2026 : 🚀 Chapter 7 — Iron Man Mode
-           : AI Intern at ASMEP Design & Build
-           : Building Project Apollo (RAG + Agents)
-           : Qdrant · LangChain · Claude API
-           : Exploring Kafka · Kubernetes · TypeScript
-    2027 : 🏆 Chapter 8 — The Endgame
-           : Graduation from KIIT
-           : Target — SDE / AI Engineer Role
-           : Future — Tech Lead & AI Architect
+### 🧠 Core Competencies
+- **Agentic Systems** — designing multi-step autonomous AI agents
+- **RAG Pipelines** — retrieval-augmented generation for grounded LLM output
+- **MCP Integrations** — connecting LLMs to live tools & data sources
+- **Prompt Engineering** — structured prompting for reliable outputs
+- **Vector Search** — semantic similarity across Qdrant & Pinecone
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Applied Experience
+| Domain | Proficiency |
+|:---|:---:|
+| ML Fundamentals | 🟦🟦🟦🟦⬜ Foundational |
+| Agentic AI | 🟦🟦🟦⬜⬜ Exploring |
+| LLM Integration | 🟦🟦🟦🟦⬜ Applied |
+| Vector / Semantic Search | 🟦🟦🟦⬜⬜ Growing |
+| Data Analytics | 🟦🟦🟦🟦⬜ Working Knowledge |
+
+</td>
+</tr>
+</table>
+
+> 🎓 Built on **AICTE × EduSkills × Google for Developers AI/ML Internship**, a **7-day Agentic AI Bootcamp (UiPath)**, and applied AI integration in real-time prediction APIs for the **Trading Agents** FinTech app.
+
+<br/>
+
+## ⚙️ Backend Engineering Expertise
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────┐
+│   Client → REST API → Auth (JWT/OAuth2) → Service Layer │
+│        → Business Logic → ORM/Driver → Database         │
+│        → Event Bus (Kafka) → Microservice Consumers      │
+└─────────────────────────────────────────────────────────┘
 ```
 
----
+</div>
 
-<!-- ==================== EXPERIENCE ==================== -->
+- 🔐 **Authentication & Authorization** — JWT-based sessions, OAuth 2.0 flows
+- 🧩 **Microservices** — decoupled, independently deployable services
+- 📡 **REST API Design** — versioned, validated, secure endpoints
+- 📨 **Event-Driven Architecture** — Kafka-based async communication
+- 🧪 **API Testing** — Postman-driven contract & integration testing
+
+<br/>
+
+## ☁️ DevOps & Cloud Expertise
+
+<div align="center">
+
+| Stage | Tools |
+|:---|:---|
+| 🐳 **Containerization** | Docker |
+| ☸️ **Orchestration** | Kubernetes |
+| 🔁 **CI/CD** | GitHub Actions |
+| 🐧 **Infrastructure** | Linux, Nginx |
+| 📊 **Streaming** | Apache Kafka |
+| ☁️ **Cloud** | Cloud Computing Fundamentals |
+
+</div>
+
+<br/>
+
+## 🗄 Database Expertise
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,elasticsearch&theme=dark"/>
+
+| Database | Use Case |
+|:---|:---|
+| **MongoDB** | Document storage for MERN applications |
+| **PostgreSQL** | Relational data with strong consistency |
+| **MySQL** | Structured academic & production projects |
+| **Redis** | Caching & session storage |
+| **Elasticsearch** | Full-text & semantic search |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0066ff,100:0a0e27&height=2&width=100%"/>
+
+<br/>
+
+## 📜 Certifications
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+
+### 🟣 Claude Certified Engineer
+**Anthropic — Applied LLM Engineering**
+<br/><img src="https://img.shields.io/badge/Status-In_Progress-00d4ff?style=flat-square&labelColor=0a0e27"/>
+
+</td>
+<td align="center" width="33%">
+
+### 🤖 AI Engineer
+**Google for Developers × AICTE × EduSkills**
+<br/><img src="https://img.shields.io/badge/Status-Completed-39ff14?style=flat-square&labelColor=0a0e27"/>
+
+</td>
+<td align="center" width="33%">
+
+### 🌐 Full Stack Developer
+**MERN Stack — Project Based**
+<br/><img src="https://img.shields.io/badge/Status-Completed-39ff14?style=flat-square&labelColor=0a0e27"/>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+### ⚙️ Backend Developer
+**Node.js / Express / REST APIs**
+<br/><img src="https://img.shields.io/badge/Status-Completed-39ff14?style=flat-square&labelColor=0a0e27"/>
+
+</td>
+<td align="center" width="33%">
+
+### ☸️ Kubernetes Fundamentals
+**Container Orchestration**
+<br/><img src="https://img.shields.io/badge/Status-In_Progress-00d4ff?style=flat-square&labelColor=0a0e27"/>
+
+</td>
+<td align="center" width="33%">
+
+### 📨 Kafka Fundamentals
+**Event Streaming Architecture**
+<br/><img src="https://img.shields.io/badge/Status-In_Progress-00d4ff?style=flat-square&labelColor=0a0e27"/>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+### 🐧 Linux Administration
+**Systems & Shell Scripting**
+<br/><img src="https://img.shields.io/badge/Status-Completed-39ff14?style=flat-square&labelColor=0a0e27"/>
+
+</td>
+<td align="center" width="33%">
+
+### ☁️ Cloud Computing
+**Core Concepts & Deployment**
+<br/><img src="https://img.shields.io/badge/Status-Completed-39ff14?style=flat-square&labelColor=0a0e27"/>
+
+</td>
+<td align="center" width="33%">
+
+### 🔁 DevOps Engineer
+**CI/CD & Automation**
+<br/><img src="https://img.shields.io/badge/Status-In_Progress-00d4ff?style=flat-square&labelColor=0a0e27"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Forage-Deloitte_Data_Analytics-00d4ff?style=for-the-badge&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/Simplilearn-Python_for_Beginners-0099ff?style=for-the-badge&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/UiPath-Agentic_AI_Bootcamp-0066ff?style=for-the-badge&labelColor=0a0e27"/>
+</div>
+
+<br/>
+
+## 📁 Featured Projects
+
+<details open>
+<summary><b>📈 Trading Agents — FinTech Bid Estimator</b></summary>
+<br/>
+
+A sophisticated fintech application leveraging ML-driven logic to estimate bid/pass trading decisions in real time.
+
+| Aspect | Details |
+|:---|:---|
+| **Stack** | React.js • Tailwind CSS • Node.js • Express • REST API |
+| **Scale** | Team mini-project (6th Semester) |
+| **Performance** | Real-time dynamic data rendering, optimized API calls |
+| **Security** | Input validation, secure endpoints |
+| **Impact** | Data-driven trading decision support |
+| **Repo** | [github.com/coldwinds003/Trading-Agents](https://github.com/coldwinds003/Trading-Agents) |
+
+</details>
+
+<details>
+<summary><b>📝 MindStack — Full-Stack Note-Taking App</b></summary>
+<br/>
+
+A complete MERN application with automatic timestamping, persistent storage, and full CRUD operations.
+
+| Aspect | Details |
+|:---|:---|
+| **Stack** | React.js • Node.js • Express.js • MongoDB |
+| **Scale** | Solo full-stack implementation |
+| **Features** | Auto-timestamping, RESTful API, responsive UI |
+| **Repo** | [github.com/coldwinds003/MindStack](https://github.com/coldwinds003/MindStack) |
+
+</details>
+
+<details>
+<summary><b>🎓 EduWeb — Education Web Application</b></summary>
+<br/>
+
+A clean, responsive education platform deployed on Vercel with optimized build configuration.
+
+| Aspect | Details |
+|:---|:---|
+| **Stack** | React.js • HTML • CSS • Vercel |
+| **Live** | [eduweb-umbe.vercel.app](https://eduweb-umbe.vercel.app) |
+| **Repo** | [github.com/coldwinds003/EduWeb](https://github.com/coldwinds003/EduWeb) |
+
+</details>
+
+<details>
+<summary><b>🎮 Slayer Cold — Browser-Based Web Game</b></summary>
+<br/>
+
+A fast-paced browser game with an optimized game loop for smooth, real-time controls.
+
+| Aspect | Details |
+|:---|:---|
+| **Stack** | JavaScript • HTML • CSS • Canvas API |
+| **Performance** | 60 FPS, cross-browser consistency |
+| **Live** | [slayer-cold.vercel.app](https://slayer-cold.vercel.app) |
+| **Repo** | [github.com/coldwinds003/Slayer-Cold](https://github.com/coldwinds003/Slayer-Cold) |
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:0066ff&height=2&width=100%"/>
+
+<br/>
+
+## 🗺️ Professional Journey
+
+<div align="center">
+
+```
+🌱  Started Learning            →  First lines of Java & C++
+        │
+⚡  Built First Project          →  MindStack v1 goes live
+        │
+🌐  Became Full Stack Developer →  MERN stack, end to end
+        │
+🗄  Mastered Databases          →  Mongo, SQL, Redis & beyond
+        │
+☁  Entered Cloud & DevOps       →  Docker, K8s, CI/CD pipelines
+        │
+🤖  Entered AI Engineering      →  LangChain, RAG, MCP, agents
+        │
+🚀  Building Intelligent Systems →  AI-powered production apps
+        │
+🏆  Future Software Architect & AI Engineer
+```
+
+</div>
+
+<br/>
+
+## 😂 Fun Facts About This Developer
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/☕-Powered_by_Coffee-6f4e37?style=for-the-badge&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/🐛-Creates_Bugs_Professionally-ff3366?style=for-the-badge&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/🔥-Deploys_on_Friday-ff6600?style=for-the-badge&labelColor=0a0e27"/>
+<br/>
+<img src="https://img.shields.io/badge/💀-Stack_Overflow_Graduate-000000?style=for-the-badge&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/🚑-Debugging_Since_Day_One-00d4ff?style=for-the-badge&labelColor=0a0e27"/>
+<br/>
+<img src="https://img.shields.io/badge/😴-Sleep_Optional-9b59b6?style=for-the-badge&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/🚀-Works_On_My_Machine-39ff14?style=for-the-badge&labelColor=0a0e27"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+> 🧑‍💻 *"It's not a bug, it's an undocumented feature."*
+> 🧑‍💻 *"99 little bugs in the code, 99 little bugs... take one down, 127 little bugs in the code."*
+> 🧑‍💻 *"Works perfectly on `localhost`. Production has trust issues."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0066ff,100:0a0e27&height=2&width=100%"/>
+
+<br/>
+
+## 🏆 Achievements & Recognition
+
+<div align="center">
+
+| Achievement | Detail |
+|:---|:---|
+| 🏢 **Industry Simulation** | Deloitte Data Analysis & Forensic Technology Job Simulation |
+| 🌍 **Global AI Program** | AICTE × EduSkills × Google for Developers AI/ML Internship |
+| 👨‍💼 **Leadership Impact** | Led 5+ technical events impacting 50+ participants |
+| ⚡ **Process Optimization** | Reduced event planning delays by 30% through structured workflows |
+
+</div>
+
+<br/>
 
 ## 💼 Experience
 
-### 🤖 AI Intern — ASMEP Design & Build Pvt. Ltd.
-`2026 – Present` · Bhubaneswar, Odisha
+### Event Management Lead
+**Kinetics — Engineering & Research Society, KIIT University** • *2023 – Present* • Bhubaneswar, Odisha
 
-- 🏗️ Architecting **Project Apollo** — an AI-powered internal operations platform
-- 🔍 Building **RAG pipelines** using Qdrant vector DB with multi-collection document intelligence
-- 🤖 Developing **agentic workflows** with LangChain + Claude API + OpenAI
-- 📊 Cross-departmental requirement gathering and stakeholder reporting
-- 🧮 Exploring **PCA + TF-IDF** for document similarity and semantic analysis
+Led 5+ high-impact technical events and hackathons, coordinating cross-functional teams and engaging 50+ participants.
 
-> *Collaborating with: Aditya (Project Lead) · Santosh Sir (Delivery Head) · Siddesh Sir (Export Head)*
+<div align="center">
+<img src="https://img.shields.io/badge/Leadership-0066ff?style=flat-square&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/Event_Planning-00d4ff?style=flat-square&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/Communication-0099ff?style=flat-square&labelColor=0a0e27"/>
+<img src="https://img.shields.io/badge/Team_Coordination-0066ff?style=flat-square&labelColor=0a0e27"/>
+</div>
 
----
+<br/>
 
-### 🎪 Event Management Lead — Kinetics, KIIT University
-`2023 – Present` · Bhubaneswar, Odisha
-
-- 🎯 Planned and executed **5+ engineering & innovation-focused events and hackathons**
-- 👥 Coordinated **10+ member teams** across logistics, scheduling & communications
-- 📊 Collaborated with faculty mentors and **50+ technical participants**
-- ⚡ Reduced coordination delays through clear scheduling & communication frameworks
-
-<p>
-  <img src="https://img.shields.io/badge/Leadership-0066ff?style=flat-square&labelColor=000011"/>
-  <img src="https://img.shields.io/badge/Event_Planning-7c3aed?style=flat-square&labelColor=000011"/>
-  <img src="https://img.shields.io/badge/Communication-00d4ff?style=flat-square&labelColor=000011"/>
-  <img src="https://img.shields.io/badge/Team_Coordination-ff6b35?style=flat-square&labelColor=000011"/>
-  <img src="https://img.shields.io/badge/Problem_Solving-0099ff?style=flat-square&labelColor=000011"/>
-</p>
-
----
-
-<!-- ==================== AI/ML TABLE ==================== -->
-
-## 🤖 AI / ML Expertise
+## 🌍 Open Source & Community
 
 <div align="center">
 
-| 🧠 Domain | 📊 Level | 🔬 Details |
-|:---|:---|:---|
-| **RAG Pipelines** | ⭐⭐⭐⭐ Applied | Qdrant vector DB, multi-collection architecture, HNSW indexing |
-| **LLM Integration** | ⭐⭐⭐⭐ Applied | Claude API, OpenAI API, prompt engineering, agentic workflows |
-| **LangChain** | ⭐⭐⭐ Working | Chains, agents, document loaders, retrievers |
-| **ML Fundamentals** | ⭐⭐⭐ Foundational | 10-week AI/ML Internship (AICTE × Google) |
-| **Data Analytics** | ⭐⭐⭐ Working | Deloitte simulation, PCA, TF-IDF, scikit-learn |
-| **Agentic AI** | ⭐⭐⭐ Exploring | UiPath Bootcamp, multi-agent orchestration |
-| **Semantic Search** | ⭐⭐⭐⭐ Applied | Embedding-based retrieval, similarity scoring |
+🤝 Actively looking to contribute to open-source projects in **AI tooling, developer infrastructure, and full-stack frameworks**.
+Always up for pairing on something ambitious — drop an issue, a PR, or a DM.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0e27,100:0066ff&height=2&width=100%"/>
 
-<!-- ==================== GITHUB STATS ==================== -->
+<br/>
+
+## 💻 Competitive Programming
+
+<div align="center">
+
+<a href="https://leetcode.com/coldwinds003"><img src="https://img.shields.io/badge/LeetCode-0066ff?style=for-the-badge&logo=leetcode&logoColor=00d4ff&labelColor=0a0e27"/></a>
+<a href="https://www.geeksforgeeks.org/user/sidhartha412"><img src="https://img.shields.io/badge/GeeksforGeeks-00d4ff?style=for-the-badge&logo=geeksforgeeks&logoColor=0066ff&labelColor=0a0e27"/></a>
+<a href="https://www.hackerrank.com/coldwinds003"><img src="https://img.shields.io/badge/HackerRank-0099ff?style=for-the-badge&logo=hackerrank&logoColor=00d4ff&labelColor=0a0e27"/></a>
+<a href="https://www.codechef.com/users/coldwinds003"><img src="https://img.shields.io/badge/CodeChef-0066ff?style=for-the-badge&logo=codechef&logoColor=00d4ff&labelColor=0a0e27"/></a>
+
+</div>
+
+<br/>
 
 ## 📊 GitHub Analytics Dashboard
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=coldwinds003&show_icons=true&hide_border=true&bg_color=0a0e27&title_color=00d4ff&icon_color=7c3aed&text_color=c9d1d9&ring_color=0066ff&count_private=true" width="49%"/>
-<img src="https://streak-stats.demolab.com?user=coldwinds003&hide_border=true&background=0a0e27&ring=00d4ff&fire=7c3aed&currStreakLabel=0066ff&sideLabels=c9d1d9&dates=888899&stroke=0066ff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=coldwinds003&show_icons=true&hide_border=true&bg_color=0a0e27&title_color=00d4ff&icon_color=0099ff&text_color=c9d1d9&border_color=0066ff&include_all_commits=true&count_private=true"/>
 
-<br/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldwinds003&layout=compact&hide_border=true&bg_color=0a0e27&title_color=00d4ff&text_color=c9d1d9&border_color=0066ff"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coldwinds003&layout=compact&hide_border=true&bg_color=0a0e27&title_color=00d4ff&text_color=c9d1d9&langs_count=8" width="49%"/>
+</div>
+
+### 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=coldwinds003&hide_border=true&background=0a0e27&ring=00d4ff&fire=0099ff&currStreakLabel=0066ff&sideLabels=c9d1d9&dates=888899"/>
 
 </div>
 
 ### 🏅 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=coldwinds003&theme=radical&no-frame=true&row=1&column=7&margin-w=8"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=coldwinds003&theme=radical&no-frame=true&row=1&column=6&margin-w=10"/>
+
 </div>
 
 ### 📈 Contribution Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=coldwinds003&hide_border=true&bg_color=0a0e27&color=00d4ff&line=7c3aed&point=ffffff&area=true&area_color=0066ff"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=coldwinds003&hide_border=true&bg_color=0a0e27&color=00d4ff&line=0099ff&point=ffffff"/>
+
 </div>
 
 ### 🐍 Contribution Snake
 
 <div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coldwinds003/coldwinds003/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/coldwinds003/coldwinds003/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/coldwinds003/coldwinds003/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/coldwinds003/coldwinds003/output/github-contribution-grid-snake.svg" />
 </picture>
-</div>
-
----
-
-<!-- ==================== ACHIEVEMENTS ==================== -->
-
-## 🏆 Achievements & Recognition
-
-<div align="center">
-
-| 🏅 Achievement | 📋 Details |
-|:---|:---|
-| 🎓 **Academic Excellence** | 90% in WB Board Class 10 Examinations |
-| 🤖 **AI Internship** | Selected for AICTE × EduSkills × Google for Developers AI/ML Program |
-| 📊 **Industry Simulation** | Completed Deloitte Data Analysis & Forensic Technology Job Simulation |
-| 🚀 **Production Projects** | 4+ shipped apps across FinTech, Education, Gaming & AI |
-| 👑 **Event Leader** | Led 5+ technical events with 50+ participants at KIIT |
-| 🧠 **AI Engineer** | Building production RAG pipelines & agentic AI systems |
 
 </div>
 
----
-
-<!-- ==================== COMPETITIVE PROGRAMMING ==================== -->
-
-## 💻 Competitive Programming
-
-<div align="center">
-
-<a href="https://leetcode.com/coldwinds003">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://www.geeksforgeeks.org/user/sidhartha412">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-<a href="https://www.hackerrank.com/coldwinds003">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-<a href="https://www.codechef.com/users/coldwinds003">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<!-- ==================== CURRENT FOCUS ==================== -->
-
-## 🎯 Current Focus
-
-```yaml
-👤 who_am_i:
-  name: "Sidhartha Jana"
-  alias: "coldwinds003"
-  role: "Full Stack + AI Engineer"
-  location: "Bhubaneswar, India 🇮🇳"
-
-🔭 currently_working_on:
-  - "Project Apollo — AI internal ops platform (ASMEP)"
-  - "RAG pipelines with Qdrant + LangChain + Claude API"
-  - "TypeScript migration for backend services"
-
-📚 currently_learning:
-  - "Kubernetes & container orchestration"
-  - "Apache Kafka for event streaming"
-  - "Advanced System Design & Distributed Computing"
-  - "LLM fine-tuning & Prompt Engineering"
-
-🤝 open_to:
-  - "Software Engineering Internships (SDE / AI Engineer)"
-  - "Full-time SDE / AI Engineer roles (2027)"
-  - "Open Source Contributions"
-  - "AI/ML collaboration projects"
-  - "Freelance full-stack / AI projects"
-
-⚡ fun_fact: >
-  I once built a browser game, a FinTech app, and a
-  RAG pipeline in the same semester. Coffee-fueled chaos? 
-  No — just organized engineering. ☕🚀
-```
-
----
-
-<!-- ==================== MEME / FUN ==================== -->
-
-## 😂 Dev Humor Corner
-
-<div align="center">
-
-```
-    When the RAG pipeline finally returns 
-    the right context after 3 days of debugging...
-
-    Me:  ✅ It works!
-    
-    Also me 5 mins later:  💀 But why?
-    
-    ──────────────────────────────────
-    
-    git commit -m "fix bug"
-    git commit -m "fix the fix"
-    git commit -m "ok THIS is the fix"
-    git commit -m "I hate this"
-    git commit -m "it works don't touch it"
-    
-    ──────────────────────────────────
-    
-    "I'll just add a console.log real quick..."
-         — me, 3 hours before the demo
-```
-
-> 😭 *"99 little bugs in the code, 99 little bugs... take one down, patch it around... 127 little bugs in the code."*
-
-</div>
-
----
-
-<!-- ==================== CONNECT ==================== -->
-
-## 🤝 Let's Build Something Amazing
-
-<div align="center">
-
-> 💬 *"The best way to predict the future is to build it."* — Alan Kay
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0066ff,100:0a0e27&height=2&width=100%"/>
 
 <br/>
 
-<a href="mailto:sidharthajana412@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000011"/>
-</a>
-<a href="https://linkedin.com/in/Sidhartha412">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000011"/>
-</a>
-<a href="https://sidhartha-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000011"/>
-</a>
-<a href="https://github.com/coldwinds003">
-  <img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000011"/>
-</a>
+## 🤝 Let's Build Something Great
 
-<br/><br/>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7c3aed,100:0066ff&height=150&section=footer&text=Thanks+for+visiting!+⭐+Star+if+you+like+it!&fontSize=20&fontColor=ffffff&fontAlignY=55" width="100%"/>
+I'm always down to talk **AI engineering, backend architecture, or that one bug that's been haunting you since 2 a.m.**
+Reach out — let's build something that doesn't break in production. 🚀
 
-<sub><i>⚡ Built with passion, caffeine, and way too many Stack Overflow tabs — by Sidhartha Jana</i></sub>
+<a href="mailto:sidharthajana412@gmail.com"><img src="https://img.shields.io/badge/Send_Email-0066ff?style=for-the-badge&logo=gmail&logoColor=00d4ff&labelColor=0a0e27"/></a>
+<a href="https://linkedin.com/in/Sidhartha412"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-00d4ff?style=for-the-badge&logo=linkedin&logoColor=0066ff&labelColor=0a0e27"/></a>
+<a href="https://sidhartha-portfolio.vercel.app"><img src="https://img.shields.io/badge/Visit_Portfolio-0099ff?style=for-the-badge&logo=vercel&logoColor=00d4ff&labelColor=0a0e27"/></a>
+<a href="https://github.com/coldwinds003"><img src="https://img.shields.io/badge/Follow_on_GitHub-0066ff?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0a0e27"/></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0066ff,100:0a0e27&height=150&section=footer"/>
+
+<sub><i>⚡ "Engineering intelligent systems, one commit, one agent, one deploy at a time." ⚡</i></sub>
 
 </div>
